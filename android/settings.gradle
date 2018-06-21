@@ -1,0 +1,3 @@
+rootProject.name = 'TimeApp'
+
+include ':app'
